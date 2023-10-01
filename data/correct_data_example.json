@@ -1,0 +1,36 @@
+[
+  {
+    "id": 0,
+    "task_type": "multiple_choice",
+    "text": "問題1",
+    "choices": [
+      {
+        "choice_id": 1,
+        "text": "回答1"
+      },
+      {
+        "choice_id": 2,
+        "text": "回答2"
+      },
+      {
+        "choice_id": 3,
+        "text": "回答3"
+      },
+      {
+        "choice_id": 4,
+        "text": "回答4"
+      },
+      {
+        "choice_id": 5,
+        "text": "回答5"
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 100,
+    "task_type": "summarization",
+    "text": "問題100",
+    "summary": "正解のサマリ"
+  }
+]

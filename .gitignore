@@ -1,0 +1,5 @@
+node_modules
+
+data/correct_data.json
+data/submissions/*.json
+data/notes
