@@ -74,7 +74,7 @@ data/submissions などにコピーしておいてください。
 以下コマンドをターミナルで実行すると、type1 評価の不正解の回答と、総計が表示されます。
 
 ```bash
-bun run eval_type1.ts data/submissions/submission.json
+bun eval_type1.ts data/submissions/submission.json
 ```
 
 ```
@@ -94,7 +94,7 @@ Total: 100, Incorrect: 64
 以下コマンドをターミナルで実行すると、type2 評価の各設問についての ROUGE-2 Score と、その合計が表示されます。
 
 ```bash
-bun run eval_type2.ts data/submissions/submission.json
+bun eval_type2.ts data/submissions/submission.json
 ```
 
 ```
